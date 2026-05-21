@@ -83,7 +83,7 @@ export default function Layout({ children }) {
       <header className="header">
         <div className="header__left">
           <NavLink to="/" className="header__logo">
-            ▸ LOTUS BETA
+            ▸ LOTUS SPA
           </NavLink>
           {onDetail && (
             <span className="header__breadcrumb" aria-hidden="true">/ Detail</span>
