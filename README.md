@@ -41,3 +41,9 @@ npm run dev        # http://localhost:5173
 ## Deployment
  After building the project, I used git versioning and pushed to Github where I deployed to Vercel, I also made some small edits to .yaml (Docker file to build faster)
  Here is the url to access full project https://projectops-beta.vercel.app
+
+
+## Brief Notes
+With more time i can write the authstore file, to handle user autentication and auth components for signup, sigin, reset, forgot pass.
+Then as well Navbar, footer, necessary pages like hero, category, about us, contact us, and more. (As reusable comps to be used across the project)
+Also i will deploy all products images to load from cloudflare or AWS S3 instead of dummyjson to make it more real and faster.
