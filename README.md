@@ -40,4 +40,4 @@ npm run dev        # http://localhost:5173
 
 ## Deployment
  After building the project, I used git versioning and pushed to Github where I deployed to Vercel, I also made some small edits to .yaml (Docker file to build faster)
- Here is the url to access full project
+ Here is the url to access full project https://projectops-beta.vercel.app
