@@ -36,7 +36,7 @@ function HeroPage() {
           onClick={() => navigate("/products")}
           aria-label="Go to the product catalogue"
         >
-          <span>What We Got You</span>
+          <span>View Products</span>
           <span className="hero__cta-arrow" aria-hidden="true">→</span>
         </button>
 
